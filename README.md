@@ -1,11 +1,15 @@
 <h1>Olá Meu Nome é Gustavo😉 Seja Bem Vindo ao Meu Perfil😀</h1>
 
+Um jovem com muito entusiamos, vontade de aprender e dinamico, interessando pela área de programação e gosta de filmes, série e animes.
+
 🎮Formado como Técnico de Programação de Jogos Digitais🎮
 
 💻Aprendando HTML e CSS💻
 
 🔐Estudando CyberSegurity🔐
-#
+
+
+<h2> 📈Meus Status Atualmente📈 </h2>
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guhfernandes22&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
